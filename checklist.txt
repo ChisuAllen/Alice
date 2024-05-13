@@ -1,0 +1,10 @@
+# Make sure OpenAi api calls are working when given a prompt from user input
+# Have promptCreate format text strings from input and turn it to OpenAi form
+# Speech to text
+# text to Speech
+# Avatar Asset (future thing)
+# LLM to detect tones of text (Array assessable)
+# History (later down the line)
+
+
+# Could implement into a website
